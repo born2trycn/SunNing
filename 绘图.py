@@ -1,0 +1,18 @@
+import turtle 
+troye=turtle.Pen()
+troye.shape('turtle')
+troye.forward(100)
+troye.left(90)
+troye.forward(100)
+troye.right(90)
+troye.forward(100)
+troye.right(90)
+troye.forward(100)
+troye.forward(100)
+troye.right(90)
+troye.forward(100)
+troye.right(90)
+troye.forward(100)
+troye.left(90)
+
+turtle.done()
